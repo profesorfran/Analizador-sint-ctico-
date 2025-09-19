@@ -167,7 +167,7 @@ La subordinada se integra como constituyente de la principal o la modifica.
 
 | Función | Nexos | Ejemplo |
 |---------|-------|---------|
-| **Sujeto** | que / interrogativas (quién, qué, cuál, cuándo, cómo, cuánto, dónde) / infinitivo | *Me gusta **que hayas estudiado** Historia.* |
+| **Sujeto** | que / interrogativas / infinitivo | *Me gusta **que hayas estudiado** Historia.* |
 | **CD** | que / interrogativas (si, quién, qué, cuál, cuándo, cómo, cuánto, dónde) / exclamativas / infinitivo | *Ellos deseaban **que les subieran el sueldo**.* |
 | **Atributo** | que / infinitivo | *El problema es **que no sé la respuesta**.* |
 | **Término de preposición (CI)** | prep + que | *No daba crédito **a que sacaría un diez**.* |
@@ -193,8 +193,7 @@ La subordinada se integra como constituyente de la principal o la modifica.
 🔹 **Relativas libres**
 - Carecen de antecedente expreso: el propio relativo encierra el valor nominal (*quien = la persona que*, *donde = el lugar en el que*).  
 - Son equivalentes a un **sintagma sustantivo** y por eso pueden desempeñar **todas las funciones propias del nombre**:  
-  - Sujeto (*Quien bien te quiere, te hará llorar*).  
-  - CD (*No entiendo **lo que me dijiste***).  
+  - Sujeto (**Quien bien te quiere***, te hará llorar).   
   - CCL (*Iremos **donde quieras***).  
   - CCM (*Hazlo **como te parezca mejor***).  
 - Pueden conmutarse por un grupo nominal con determinante: *Quien dice eso* ≈ *La persona que dice eso*.  
@@ -203,9 +202,9 @@ La subordinada se integra como constituyente de la principal o la modifica.
 - Formadas por **artículo determinado + que** (*el que, la que, los que, las que, lo que*).  
 - Funcionan como **grupos nominales completos**.  
 - Usos frecuentes:  
-  - **Sujeto** (*El que avisa no es traidor*).  
-  - **CD** (*Vi a los que estaban en clase*).  
-  - **CCL** (*Dormiré en la que tiene vistas al mar*).  
+  - **Sujeto** (**El que avisa*** no es traidor*).  
+  - **CD** (*Vi **a los que estaban en clase***).  
+  - **CCL** (*Dormiré en **la que tiene vistas al mar***).  
   - **Atributo** (*Lo que más me preocupa es el examen*).  
 - Equivalen semánticamente a expresiones como *aquel que*, *aquella que*, *los que*, *lo que*.  
 
