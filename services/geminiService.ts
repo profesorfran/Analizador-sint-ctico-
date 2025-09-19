@@ -179,21 +179,48 @@ La subordinada se integra como constituyente de la principal o la modifica.
 ---
 
 ### 4.2. Relativas
-**Definición:** modifican a un sustantivo (antecedente), como lo haría un adjetivo.  
-**Notas:**  
-- El nexo cumple función dentro de la subordinada (*que me besó* → “que” = sujeto).  
-- Pueden ser **especificativas** (sin comas, restringen el referente) o **explicativas** (con comas, aportan información adicional).  
-- También existen las relativas **libres** (sin antecedente expreso), que funcionan como sujeto, CD, CCL, etc.
 
 | Tipo | Nexos | Ejemplo | Función |
 |------|-------|---------|---------|
-| **Con antecedente expreso** | que, quien, el/la cual, los/las cuales, donde, como, cuando, cuyo/a/os/as | *El chico **que me besó*** | CN del antecedente |
-| **Sin antecedente expreso (libres)** | quien, cuanto, donde, como, cuando | *Quien dice eso, miente.* | Sujeto / CD / CCL / CCM |
-| **Sin antecedente expreso (semilibres)** | el que, la que, los que… | *El que la hace, la paga.* | Sujeto |
+| **Con antecedente expreso** | que, quien, el/la cual, los/las cuales, donde, como, cuando, cuyo/a/os/as | *La profesora corrigió los exámenes **que habían entregado tarde*** | CN del antecedente |
+| **Sin antecedente expreso (libres)** | quien, quienes, cuanto/a/os/as, lo que, lo cual, donde, como, cuando | *Quien bien te quiere, te hará llorar.* <br> *No entiendo **lo que me dijiste***. <br> *Iremos **donde quieras***. <br> *Hazlo **como te parezca mejor***. | Sujeto / CD / CCL / CCM |
+| **Sin antecedente expreso (semilibres)** | el que, la que, los que, las que, lo que | *El que avisa no es traidor.* <br> *Vi a los que estaban en clase.* <br> *Dormiré en la que tiene vistas al mar.* <br> *Lo que más me preocupa es el examen.* | Sujeto / CD / CCL / Atributo |
 
 ---
 
-### 4.3. Construcciones (adverbiales tradicionales)
+#### Teoría ampliada sobre las relativas libres y semilibres
+
+🔹 **Relativas libres**
+- Carecen de antecedente expreso: el propio relativo encierra el valor nominal (*quien = la persona que*, *donde = el lugar en el que*).  
+- Son equivalentes a un **sintagma sustantivo** y por eso pueden desempeñar **todas las funciones propias del nombre**:  
+  - Sujeto (*Quien bien te quiere, te hará llorar*).  
+  - CD (*No entiendo **lo que me dijiste***).  
+  - CCL (*Iremos **donde quieras***).  
+  - CCM (*Hazlo **como te parezca mejor***).  
+- Pueden conmutarse por un grupo nominal con determinante: *Quien dice eso* ≈ *La persona que dice eso*.  
+
+🔹 **Relativas semilibres**
+- Formadas por **artículo determinado + que** (*el que, la que, los que, las que, lo que*).  
+- Funcionan como **grupos nominales completos**.  
+- Usos frecuentes:  
+  - **Sujeto** (*El que avisa no es traidor*).  
+  - **CD** (*Vi a los que estaban en clase*).  
+  - **CCL** (*Dormiré en la que tiene vistas al mar*).  
+  - **Atributo** (*Lo que más me preocupa es el examen*).  
+- Equivalen semánticamente a expresiones como *aquel que*, *aquella que*, *los que*, *lo que*.  
+
+🔹 **Notas generales (NGLE)**  
+- El relativo funciona siempre como **conector y elemento interno de la subordinada** (ej.: *lo que me dijiste* → *lo* = antecedente implícito, *que* = pronombre relativo con función de CD).  
+- Las libres y semilibres se reconocen porque no hay un antecedente expreso en la principal, pero **mantienen la estructura propia de las adjetivas**.  
+- En muchos casos, su valor semántico es general o indeterminado: *quien* = “cualquiera que”, *donde* = “en cualquier lugar en el que”.  
+
+⚠️ **Nota fundamental (NGLE):**  
+Las oraciones relativas **libres y semilibres nunca son sustantivas ni “sustantivadas”**. La gramática tradicional las clasificaba así, pero la NGLE insiste en que deben entenderse siempre como **oraciones de relativo**, aunque aparezcan sin antecedente expreso.
+
+
+---
+
+### 4.3. Construcciones 
 **Definición:** la NGLE llama “construcciones” a las subordinadas que expresan valores circunstanciales de tiempo, modo, causa, finalidad, etc.  
 **Notas:**  
 - Funcionan globalmente como complementos circunstanciales o modificadores.  
