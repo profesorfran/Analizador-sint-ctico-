@@ -193,19 +193,19 @@ La subordinada se integra como constituyente de la principal o la modifica.
 🔹 **Relativas libres**
 - Carecen de antecedente expreso: el propio relativo encierra el valor nominal (*quien = la persona que*, *donde = el lugar en el que*).  
 - Son equivalentes a un **sintagma sustantivo** y por eso pueden desempeñar **todas las funciones propias del nombre**:  
-  - Sujeto (**Quien bien te quiere***, te hará llorar).   
-  - CCL (*Iremos **donde quieras***).  
-  - CCM (*Hazlo **como te parezca mejor***).  
+  - Sujeto (**Quien bien te quiere**, te hará llorar).*   
+  - CCL (**Iremos **donde quieras**).*  
+  - CCM (*Hazlo **como te parezca mejor**).*  
 - Pueden conmutarse por un grupo nominal con determinante: *Quien dice eso* ≈ *La persona que dice eso*.  
 
 🔹 **Relativas semilibres**
 - Formadas por **artículo determinado + que** (*el que, la que, los que, las que, lo que*).  
 - Funcionan como **grupos nominales completos**.  
 - Usos frecuentes:  
-  - **Sujeto** (**El que avisa*** no es traidor*).  
-  - **CD** (*Vi **a los que estaban en clase***).  
-  - **CCL** (*Dormiré en **la que tiene vistas al mar***).  
-  - **Atributo** (*Lo que más me preocupa es el examen*).  
+  - **Sujeto** (**El que avisa** no es traidor).*  
+  - **CD** (*Vi **a los que estaban en clase***).* 
+  - **CCL** (*Dormiré en **la que tiene vistas al mar**).*  
+  - **Atributo** (*Lo que más me preocupa es el examen*).*
 - Equivalen semánticamente a expresiones como *aquel que*, *aquella que*, *los que*, *lo que*.  
 
 🔹 **Notas generales (NGLE)**  
