@@ -78,19 +78,20 @@ export const TreeNode: React.FC<TreeNodeProps> = ({ element, level, density }) =
     : ['text-slate-300', 'border-slate-500'];
   
   const hasChildren = element.children && element.children.length > 0;
-  const isSintagma = element.label.toUpperCase().startsWith('S'); 
+  const isSintagma = element.label.toUpperCase().startsWith('S') || element.label.startsWith('Oración') || element.label.startsWith('Prop'); 
   const bgLineColorClass = borderColorString ? borderColorString.replace(/^border-/, 'bg-') : 'bg-slate-500';
 
   const config = getDensityConfig(density);
 
-  const showElementTextForThisNode = !isSintagma || (isSintagma && !hasChildren);
+  // Show text only if it's a leaf node or a node that acts as a specific wrapper without separate children for all words
+  const showElementTextForThisNode = !hasChildren;
 
   return (
     <div 
       className={`flex flex-col-reverse items-center ${config.nodePadding} ${config.nodeMargin} ${config.minNodeWidth} relative ${hasChildren ? 'bg-slate-700/40 rounded-lg shadow-md' : ''}`}
       style={{flexBasis: 'auto', flexShrink: 0}}
     >
-      {/* Scope line for Sintagmas - MOVED TO BE FIRST (visually at bottom due to flex-col-reverse) */}
+      {/* Scope line for Sintagmas/Oraciones - Visually at bottom due to flex-col-reverse */}
       {isSintagma && (
         <div className={`w-full h-[1px] ${bgLineColorClass} ${config.sintagmaBottomLineMarginTop}`}></div>
       )}
@@ -103,15 +104,15 @@ export const TreeNode: React.FC<TreeNodeProps> = ({ element, level, density }) =
           </p>
         )}
         <div className="flex flex-col items-center w-full">
-          {/* Small line above label REMOVED */}
           <p className={`font-semibold ${textColorClass} text-center uppercase tracking-wider ${config.labelFontSize} ${config.labelLineHeight}`}>{element.label}</p>
         </div>
       </div>
 
       {/* Children nodes - Rendered LAST in JSX (visually at top due to flex-col-reverse) */}
       {hasChildren && (
+        /* Changed items-start to items-end to ensure children align at the bottom (base of the tree) */
         <div 
-          className={`flex flex-row flex-wrap justify-center items-start border-b ${borderColorString} border-opacity-30 w-full ${config.childrenContainerPaddingBottom} ${config.childrenContainerGap}`} /* Changed to border-b and padding-bottom */
+          className={`flex flex-row flex-wrap justify-center items-end border-b ${borderColorString} border-opacity-30 w-full ${config.childrenContainerPaddingBottom} ${config.childrenContainerGap}`} 
         >
           {element.children?.map((child, index) => (
             <TreeNode key={`${level}-${index}-${child.label}-${child.text.slice(0,5)}`} element={child} level={level + 1} density={density} />

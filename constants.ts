@@ -6,6 +6,7 @@
 export const LABEL_COLORS: { [key: string]: string } = {
   // Sintagmas Principales y Sujeto/Predicado
   'SN Sujeto': 'text-yellow-300 border-yellow-400',
+  'SN Sujeto paciente': 'text-yellow-300 border-yellow-400',
   'SV - Predicado verbal': 'text-green-400 border-green-500',
   'SV - Predicado nominal': 'text-lime-400 border-lime-500',
   'ST': 'text-red-400 border-red-500', // Sujeto Tácito (antes SO)
@@ -62,6 +63,7 @@ export const LABEL_COLORS: { [key: string]: string } = {
   'Oración - Subordinada Sustantiva de CD': 'text-cyan-400 border-cyan-500',
   'Oración - Subordinada Sustantiva de Término': 'text-cyan-400 border-cyan-500', // para CI, CRég, CN, CAdj, CAdv
   'Oración - Subordinada Sustantiva de Atributo': 'text-cyan-400 border-cyan-500',
+  'Oración - Subordinada Sustantiva de Aposición': 'text-cyan-400 border-cyan-500',
 
   // Oraciones Subordinadas Relativas (antes Adjetivas)
   'Oración - Subordinada Relativa': 'text-sky-400 border-sky-500',
